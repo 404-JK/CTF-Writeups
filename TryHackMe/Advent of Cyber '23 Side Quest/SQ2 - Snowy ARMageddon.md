@@ -96,6 +96,8 @@ push {r1}
 
 It is not needed to add your IP address as hexadecimals when you are assembling your code. As seen on blog post.
 
+![Assembler](Images/assembler.png)
+
 And here are the parts from the code I modified:
 
 ```python
